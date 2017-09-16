@@ -1,0 +1,8 @@
+
+<suite name="logintest">
+	<test name="adminfunction">
+		<classes>
+			<class name="com.TestNg.AdminLogin" />
+		</classes>
+	</test>
+</suite>
